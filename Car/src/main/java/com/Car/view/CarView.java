@@ -47,7 +47,6 @@ public class CarView {
 						case 6:
 							ca.SortProfileController();
 							break;
-						
 						case 7:
 							ca.viewAllProfileController();
 							break;
